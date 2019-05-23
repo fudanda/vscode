@@ -1,0 +1,27 @@
+{
+    "workbench.colorTheme": "SynthWave '84",
+    "files.autoSave": "afterDelay",
+    "remote.SSH.showLoginTerminal": true,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontSize": 18,
+    "editor.fontWeight": "bold",
+    "editor.formatOnPaste": true,
+    "editor.fontFamily": "source code pro, 'Courier New', monospace",
+    "breadcrumbs.enabled": true,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "git.confirmSync": false,
+    "workbench.editor.enablePreview": false,
+    "git.enableSmartCommit": true,
+    "vscode_custom_css.imports": [
+        "file:///D:/Program Files/vscode/vscode-vibrancy-style.css",
+        "file:///D:/Program Files/vscode/synthwave84.css",
+        "file:///D:/Program Files/vscode/terminal.css",
+        "file:///D:/Program Files/vscode/toolbar.css",
+        "file:///D:/Program Files/vscode/enable-electron-vibrancy.js",
+    ],
+    "vscode_custom_css.policy": true,
+    "terminal.integrated.rendererType": "dom",
+    "git.ignoreLegacyWarning": true
+}
